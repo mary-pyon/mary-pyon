@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mary-pyon. You can call me Lyn.
 - 👀 I’m interested in Japan and recently in all concerned about programming
-- 🌱 I’m currently learning Java, C# and frameworks
+- 🌱 I’m currently learning Java, C# and web frameworks.
 - 💞️ I’m looking to improve my skills in programming and keep learning.
 - 😄 Pronouns: she/her
 
